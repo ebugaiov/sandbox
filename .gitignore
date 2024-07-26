@@ -2,3 +2,4 @@ venv
 .idea
 *.log
 temp.ipynb
+.ipynb_checkpoints
