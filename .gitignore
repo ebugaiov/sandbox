@@ -1,6 +1,7 @@
 venv
 .idea
 .vscode
+.idx/*
 *.log
 temp.ipynb
 .ipynb_checkpoints
